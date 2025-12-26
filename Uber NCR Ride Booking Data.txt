@@ -1,0 +1,97 @@
+🚗 Uber NCR Ride Booking Data Analysis
+📌 Project Overview
+
+This project performs Exploratory Data Analysis (EDA) on Uber NCR ride booking data to uncover ride demand patterns, customer behavior, cancellation trends, pricing insights, and operational metrics.
+The analysis focuses on visual storytelling and business-oriented insights using Python.
+
+📊 Dataset Information
+
+Source: Kaggle
+
+Dataset Name: Uber Ride Analytics Dashboard – NCR Ride Bookings
+
+Region: National Capital Region (India)
+
+File Used: ncr_ride_bookings.csv
+
+🔗 Kaggle Dataset Link:
+https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv
+
+📎 Note: The dataset is publicly available on Kaggle and is used here strictly for educational and analytical purposes.
+
+🛠️ Tools & Technologies Used
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+🔍 Key Analysis Performed
+
+Data cleaning and preprocessing
+
+Handling missing values and duplicate records
+
+Date and time feature extraction
+
+Univariate and bivariate analysis
+
+Outlier detection using boxplots
+
+Correlation analysis using heatmaps
+
+📈 Visualizations Included
+
+Count plots (Booking Status, Vehicle Type, Payment Method)
+
+Bar plots (Ride and vehicle preference trends)
+
+KDE plots (Booking value distribution)
+
+Box plots (Outlier analysis)
+
+Scatter plots (Ride distance vs booking value)
+
+Correlation heatmap
+
+💡 Key Insights
+
+Ride demand peaks during morning and evening commute hours
+
+Certain vehicle types dominate NCR bookings
+
+Booking value increases with ride distance
+
+Customer cancellations are higher compared to driver cancellations
+
+Digital payment methods are the most preferred
+
+
+▶️ How to Run the Project
+
+Clone the repository
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Open uber_ncr_eda.ipynb in Jupyter Notebook
+
+Run all cells sequentially
+
+🎯 Conclusion
+
+This project demonstrates a complete EDA workflow on real-world Uber ride booking data. It highlights strong data cleaning, visualization, and analytical skills while extracting actionable business insights relevant to ride-hailing platforms.
+
+📬 Author
+
+Gunika
+Aspiring Data Scientist | Data Analysis & Visualization
